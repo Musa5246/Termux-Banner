@@ -1,5 +1,7 @@
 # Termux Banner
-#Script by Parixit Sutariya
+
+#Script by Ethical Musa
+
 
 ## Installation :
 
